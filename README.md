@@ -1,5 +1,4 @@
 # rebuttal-figures
 
 **Figure B.1. Distribution of $T_i^2$ under the mean-shift and covariance-shift alternatives in a representative replication.**
-![Figure](Figure B.1.png)
-
+![Figure B.1](Figure%20B.1.png)
